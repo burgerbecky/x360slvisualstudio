@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29001.49
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "X360 SL Visual Studio Integration", "x360sl_msi-v19.vdproj", "{2AADFCA1-DF6A-4C1A-ABD4-066BA221EF51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2AADFCA1-DF6A-4C1A-ABD4-066BA221EF51}.Release|Default.ActiveCfg = Release
+		{2AADFCA1-DF6A-4C1A-ABD4-066BA221EF51}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E431124-E02A-48FA-977A-FFB0041B2271}
+	EndGlobalSection
+EndGlobal
